@@ -1,0 +1,8 @@
+﻿<xapCache source="D:\GitHub\Puzzle\Puzzle\Bin\Debug\Puzzle.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="26.02.2013 1:25:01">
+  <file source="D:\GitHub\Puzzle\Puzzle\obj\Debug\Puzzle.dll" archivePath="Puzzle.dll" lastWriteTime="26.02.2013 1:24:55" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="26.08.2010 3:17:48" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="26.08.2010 3:17:48" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\ru\System.Windows.Controls.Data.Input.resources.dll" archivePath="ru\System.Windows.Controls.Data.Input.resources.dll" lastWriteTime="26.08.2010 6:33:38" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\ru\System.ComponentModel.DataAnnotations.resources.dll" archivePath="ru\System.ComponentModel.DataAnnotations.resources.dll" lastWriteTime="26.08.2010 6:33:38" />
+  <file source="D:\GitHub\Puzzle\Puzzle\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="26.02.2013 1:25:00" />
+</xapCache>
